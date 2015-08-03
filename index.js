@@ -104,7 +104,7 @@ function CopyTables(ddbSource, ddbDestination) {
 
 module.exports = function (sourceRegionName, destinationRegionName, awsProfileName) {
 
-  //validatte
+  //validate
   if (!sourceRegionName) {
     throw new Error('sourceRegionName must be valid');
   }
