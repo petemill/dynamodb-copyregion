@@ -1,0 +1,19 @@
+{
+  "name": "dynamodb-copyregion",
+  "version": "1.0.0",
+  "description": "Command to copy all tables from one region to another",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/petemill/dynamodb-copyregion.git"
+  },
+  "author": "Peter Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petemill/dynamodb-copyregion/issues"
+  },
+  "homepage": "https://github.com/petemill/dynamodb-copyregion#readme"
+}
