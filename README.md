@@ -17,7 +17,7 @@ Arguments: --sourceregion (required): Source region containing dynamo db tables 
            --awsprofilename (optional): AWS credential profile name to use. Omit to use default, or set the evironment var AWS_PROFILE
 ```
 
-#Use in node
+# Use in node
 
 ## Copying all tables
 ```
