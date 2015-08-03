@@ -1,6 +1,6 @@
 {
   "name": "dynamodb-copyregion",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Command to copy all tables from one region to another",
   "bin": {
     "dynamodb-copyregion": "bin/module.js"
